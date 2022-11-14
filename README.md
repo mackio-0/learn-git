@@ -1,7 +1,7 @@
-#Introduction
+# Introduction
 
 Testing git
 
-#Learning
+# Learning
 
 * git and github
